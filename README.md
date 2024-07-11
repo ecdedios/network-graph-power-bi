@@ -2,6 +2,8 @@
 
 > Using ZoomCharts' Drill Down Graph Pro as a Power BI visual.
 
+![Power BI Dashboard](https://github.com/ecdedios/network-graph-power-bi/blob/main/images/Screenshot%202024-07-11%20172526.jpg)
+
 ## Data
 
 [Facebook government pages](https://networkrepository.com/fb-pages-government.php)
