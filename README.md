@@ -10,8 +10,8 @@
 
 ## Article
 
-[Medium article - Create a Network Graph in Power BI]()
-[Network Graph](https://app.powerbi.com/view?r=eyJrIjoiNDNkMmZiNGItYTA3OS00OTY4LTkyNDItNGY0ZDA4MjVhY2JiIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
+[Medium article - Create a Network Graph in Power BI]()  
+[Network Graph - Published to the Web](https://app.powerbi.com/view?r=eyJrIjoiNDNkMmZiNGItYTA3OS00OTY4LTkyNDItNGY0ZDA4MjVhY2JiIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
 ## Usage
 
